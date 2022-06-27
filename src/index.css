@@ -1,0 +1,13 @@
+
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
